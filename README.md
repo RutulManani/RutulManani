@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I’m Rutul! 👋
 
-<!--
-**RutulManani/RutulManani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **UI/UX Designer | Product Designer | Front-End Enthusiast**  
+🔍 Passionate about **User Experience Design, Interaction Design, and Digital Accessibility**  
+💡 Transforming ideas into seamless, user-friendly experiences  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 📚 Currently pursuing a **Postgraduate Certificate in UX Design at Humber College**  
+- 🎨 Background in **Industrial & Product Design** with **2.5+ years of experience**  
+- 🔍 Focused on **User-Centered Design, Prototyping, and Usability Testing**  
+- 🖥 Exploring **Front-End Development** to bridge the gap between design & code  
+
+---
+
+## 🔧 Skills & Tools  
+🖌 **Design & Prototyping**  
+- Figma | Adobe XD | Sketch | InVision  
+
+📊 **Research & Analysis**  
+- User Research | Usability Testing | Heuristic Evaluation  
+
+💻 **Development**  
+- HTML | CSS | JavaScript | React (Learning)  
+
+---
+
+## 🌍 Connect with Me  
+- 💼 **Portfolio**: [rutulmanani18.wixstudio.io/my-site-1](https://rutulmanani18.wixstudio.io/my-site-1)  
+- 💬 **LinkedIn**: [linkedin.com/in/rutulmanani](https://www.linkedin.com/in/rutulmanani)  
+- 📷 **Instagram**: [@yourhandle](https://www.instagram.com/yourhandle)  
+
+---
+
+## ⚡ Fun Fact  
+I love solving **real-world problems through design** and exploring **new trends in UX/UI**. Also, I enjoy photography 📸 & gaming 🎮!  
+
+---
+
+### 📌 Check out my projects & feel free to collaborate! 🚀
