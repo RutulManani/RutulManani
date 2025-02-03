@@ -27,7 +27,7 @@
 ---
 
 ## 🌍 Connect with Me  
-- 💼 **Portfolio**: [rutulmanani18.wixstudio.io/my-site-1](https://rutulmanani18.wixstudio.io/my-site-1)  
+- 💼 **Portfolio**: [https://rutulmanani18.wixstudio.com/designs](https://rutulmanani18.wixstudio.com/designs)    
 - 💬 **LinkedIn**: [linkedin.com/in/rutulmanani](https://www.linkedin.com/in/rutulmanani)  
 - 📷 **Instagram**: [@yourhandle](https://www.instagram.com/yourhandle)  
 
